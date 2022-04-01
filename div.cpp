@@ -33,8 +33,7 @@ ll powermod(ll x, ll y, ll p){ll res = 1;x = x % p;if (x == 0) return 0;while (y
 //Language C++
 //Practice->Success->Motto
 
-
-int main()
+iint main()ashish bhot lund hau
 {
     Code By DevPhineas
      ll t;
