@@ -34,7 +34,9 @@ ll powermod(ll x, ll y, ll p){ll res = 1;x = x % p;if (x == 0) return 0;while (y
 //Practice->Success->Motto
 
 
-int main()
+int main(){
+    
+}
 {
     Code By DevPhineas
      ll t;
